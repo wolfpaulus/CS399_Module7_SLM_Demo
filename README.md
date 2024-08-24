@@ -5,7 +5,7 @@ Edit the dtype to what's your hardware supports. E.g.: torch.bfloat16 or torch.f
 Running `sysctl hw | grep BF16` might provide a hint
 
 
-## Simple TinyLlama Demo unsing Streamlit
+## Simple TinyLlama Demo using Streamlit
 
 Edit the path to where TinyLlama is installed.
 Edit the dtype to what's your hardware supports. E.g.: torch.bfloat16 or torch.float16
